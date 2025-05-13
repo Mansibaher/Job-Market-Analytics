@@ -2,9 +2,9 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-# Load data
-df = pd.read_csv("../data/jobs_serpapi.csv")
-skills_df = pd.read_csv("../data/skill_frequencies.csv")
+# ✅ Corrected file paths for Streamlit Cloud
+df = pd.read_csv("data/jobs_serpapi.csv")
+skills_df = pd.read_csv("data/skill_frequencies.csv")
 
 st.set_page_config(page_title="Job Market Skill Trends", layout="wide")
 
