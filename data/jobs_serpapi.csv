@@ -1,0 +1,943 @@
+job_title,company,location,via,description,extensions,role
+"Data Analyst (App Developer) Jobs in ,,US",Synectics Inc,United States,Synectics Inc.,"Responsibilities:
+• As a Data Analyst with a focus on App Development, you will play a crucial role in building applications that streamline data visualizations and empower bioinformatics and non-bioinformatics stakeholders.
+• Will work closely with researchers to understand their needs and transform requirements into efficient, user-friendly software solutions.
+• Your work will enable scientists to leverage data effectively, driving innovative research and development initiatives.
+• App Development: Design, develop and refactor applications that enhance the accessibility and usability of genomic data, integrating user feedback for continuous improvement.
+• Understanding User Requirements: Engage with bioinformatics research scientists to gather and analyze requirements, translating them into technical specifications and application features.
+• Enabling Team Success: Collaborate with cross-functional teams to ensure applications are aligned with common data model standards and facilitate effective data management and querying.
+• Process Automation: Utilize scripting languages to automate and optimize data processing/ingestion workflows, maintaining high standards of data quality and integrity.
+• ETL Process Management: Develop and execute ETL processes that align with organizational standards, ensuring seamless integration of high-value datasets.
+• Documentation and Collaboration: Maintain comprehensive documentation of development processes and version control to support collaboration and reproducibility.
+• Building application ""access layers"" for various stakeholders/teams, many are not bioinformaticians but need to have a way to work with bioinformatics data
+• Harmonize & store data from different therapeutic areas
+• Understanding stakeholder requirements, execute on analysis/dev tasks, refactoring code/queries, etc.
+
+Qualifications:
+• Bachelor's degree in computer science, bioinformatics, or a related field, with 3+ years of relevant experience.
+• Proven experience in app development and user interface design (preferred: Rshiny).
+• Strong skills in requirements gathering and translating them into actionable software solutions.
+• Proficiency in PostgreSQL or similar databases, with the ability to write complex queries.
+• Expertise in Python and R for automation and data manipulation.
+• Familiarity with bioinformatics data and bioinformatics data standards.
+• Excellent communication skills and a collaborative mindset, essential for partnering with diverse research teams.
+• Experience with AWS desired
+• Experience in API development desired
+• Advanced skills with R/Python including app development (preferred: Rshiny)
+• Experience with bioinformatics datasets (like BulkRNAseq, Proteomics, scRNAseq, CRISPR)
+• Interaction with databases (SQL)
+• Code management and documentation, usage of github
+
+Benefits:
+
+Healthcare Insurance: Synectics offers eligible employees and their dependents healthcare coverage through BlueCross BlueShield of Illinois. Eligibility begins on the 1st day of the calendar month following 60 days of continuous full time employment with Synectics. Premiums are subsidized by Synectics.
+
+Dental Insurance: Synectics offers eligible employees and their dependents a dental plan through MetLife. Eligibility begins on the 1st day of the calendar month following 60 days of continuous full time employment with Synectics.
+
+Vision Insurance: Synectics offers eligible employees vision insurance through VSP. Eligibility begins on the 1st day of the calendar month following 60 days of continuous full time employment with Synectics.401(k) Plan: The Synectics Inc. Investment Savings Retirement Plan. Synectics offers all employees who are 21 years of age or older the opportunity to invest in the 401(k) Plan on the first enrollment date that is at least 30 days after employment begins. Enrollment dates are each January 1st, April 1st, July 1st, and October 1st.
+
+Technical Certification Bonus: Synectics is pleased to award its employees a bonus of up to $500 for an approved professional certification. In determining the bonus amount, Synectics will consider the cost of the test(s) for any certification relating to your current position, achieved during your employment with us. Only one Certification Bonus per calendar year may be awarded per employee. Only current, active employees will be eligible to receive this bonus. It will be awarded 90 days after the Synectics office has received documentation confirming the successful completion of the certification.
+
+Synectics is an equal opportunity employer.","{'posted_at': '1 day ago', 'salary': '39.54–49.43 an hour', 'schedule_type': 'Contractor', 'dental_coverage': True, 'health_insurance': True}",Data Analyst
+Program Data Analyst Jobs,Maxar Technologies Holdings Inc,"Longmont, CO",Clearance Jobs,"Please review the job details below.
+
+Summary
+
+Maxar is seeking to hire a Program Data Analyst to join the USG Program Management team in Longmont, CO. This team oversees a USG satellite access program and works closely with the USG customer to ensure Maxar executes the contract in accordance with requirements. The ideal individual for this position would be self-motivated and a highly organized skilled multitasker with excellent communication skills and the ability to seamlessly move between individual and collaborative tasks. Initiative and follow through will be key to success.
+
+Responsibilities
+• Works closely with the program management team on program delivery.
+• The Program Data Analyst will be responsible for interpreting data, analyzing results using statistical techniques, and providing ongoing reports for the EOCL program.
+• The Data Analyst will gather insights that directly inform business decisions and strategies to achieve objectives through data-driven guidance.
+• Skilled at designing, developing, and maintaining data modeling pipelines in both structured and semi-structured data environments.
+• Ensure informational accuracy and integrity, generate reports and visualizations for stakeholders and help leadership with strategic planning based on the insights gleaned from their work.
+• Creating reports for internal teams, external clients and/or stakeholders.
+• Collaborating with team members to collect and analyze data.
+• Visualizing data with graphs, infographics, and other methods.
+• Establishing KPIs to measure the effectiveness of business decisions.
+• Curating various large datasets to create usable, report-ready data products to drive reporting & insights.
+• Developing professional expertise, applies company policies and procedures to resolve a variety of issues.
+
+Job Requirements
+• Must be a U.S. citizen and be willing and able to obtain a TS/SCI security clearance.
+• Bachelor's Degree. 4 years of direct relevant experience.
+• 3+ years of experience with SQL including the ability to write and complex queries from scratch.
+• 3+ years of experience designing and developing with business intelligence tools such as: Tableau, Power BI, Superset.
+• Familiarity with Microsoft Office tools and SharePoint.
+• Willingness to take on new tasks and learn new skills to complete a task.
+• Ability to work in the Longmont, Colorado office.
+
+Preferred Qualifications:
+• Project management experience.
+• Office management experience.
+• Experience generating program documentation and document deliverables.
+• Experience with semi-structured and unstructured data.
+• Experience with geospatial data.
+• Experience with file-based data storage, including Parquet or Iceberg.
+• Experience with Python.
+• Experience with dbt Cloud or other automated data pipeline technologies.
+• Familiarity with AWS systems and tools.
+
+In support of pay transparency at Maxar, we disclose salary ranges on all U.S. job postings. The successful candidate's starting pay will fall within the salary range provided below and is determined based on job-related factors, including, but not limited to, the experience, qualifications, knowledge, skills, geographic work location, and market conditions. Candidates with the minimum necessary experience, qualifications, knowledge, and skillsets for the position should not expect to receive the upper end of the pay range.
+
+• The base pay for this position within Colorado is: $56,000.00 - $94,000.00 annually.
+
+For all other states, we use geographic cost of labor as an input to develop market-driven ranges for our roles, and as such, each location where we hire may have a different range.
+
+We offer a comprehensive package of benefits including paid time off, health and welfare insurance, and 401(k) to eligible employees. You can find more information on our benefits at: https://www.maxar.com/careers/benefits
+Additionally, this position is incentive eligible with a target based on contribution, company performance, and/or individual results achieved; the specific incentive plan and target amount will be determined based on the role and breadth of contributions.
+
+The application window is three days from the date the job is posted and will remain posted until a qualified candidate has been identified for hire. If the job is reposted regardless of reason, it will remain posted three days from the date the job is reposted and will remain reposted until a qualified candidate has been identified for hire.
+
+The date of posting can be found on Maxar's Career page at the top of each job posting.
+
+To apply, submit your application via Maxar's Career page.
+
+Maxar Technologies values diversity in the workplace and is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.","{'posted_at': '15 hours ago', 'schedule_type': 'Full-time', 'dental_coverage': True, 'paid_time_off': True, 'health_insurance': True}",Data Analyst
+Data Analyst - Remote - US,Everglade Works,Anywhere,Indeed,"About the Role
+
+Everglade Works is looking for a Data Analyst who thrives in a fast-paced, remote-first environment. Your job is simple: turn raw data into insights that drive decisions across our business from engineering and operations to client delivery and executive strategy.
+
+This role is built for someone who knows how to work with messy datasets, extract meaning, build dashboards, and communicate clearly with both technical and non-technical teams.
+
+You’ll be part analyst, part storyteller, and part problem-solver helping our global teams make better, faster, and more informed decisions.
+
+Key Responsibilities
+• Analyze large datasets from internal systems and third-party platforms
+• Build automated dashboards and reports using tools like Looker Studio, Power BI, or Tableau
+• Identify trends, anomalies, and actionable insights to support product, finance, HR, and operations teams
+• Create SQL queries to extract data across multiple databases (PostgreSQL, MySQL, etc.)
+• Support leadership with data-driven recommendations for growth and optimization
+• Collaborate with engineers to improve data infrastructure and pipeline efficiency
+• Maintain and document data definitions, metrics, and reports for clarity across teams
+
+What You Need
+• 3+ years experience as a Data Analyst or similar role
+• Strong skills in SQL, data wrangling, and Excel/Google Sheets
+• Experience with one or more BI tools (Power BI, Tableau, Looker, etc.)
+• Basic understanding of statistics and A/B testing
+• Ability to explain complex data simply and clearly
+• Comfortable working independently in a remote environment
+
+Bonus If You Have
+• Experience with Python or R for data analysis
+• Familiarity with cloud data platforms (BigQuery, Snowflake, Redshift)
+• Knowledge of data governance or data modeling
+• Worked with remote, cross-functional teams across time zones
+
+Why Everglade Works?
+
+We’re not just a tech company we’re a powerhouse building the backbone of digital operations for global clients. As a Data Analyst here, you won’t be siloed or stuck in reporting loops. You’ll sit at the intersection of real business problems and sharp decision-making, and your work will have visibility at the top.
+
+At Everglade Works, we give you space to think, solve, and grow all while working from wherever you work best.
+
+What You’ll Get
+• Fully remote setup
+• Competitive salary & benefits
+• Annual learning and tech stipend
+• Flexible hours & paid time off
+• A fast-moving, results-driven culture
+
+Apply now to help us turn data into our next competitive advantage.
+
+Job Type: Full-time
+
+Pay: $77,000.00 - $90,000.00 per year
+
+Benefits:
+• 401(k)
+• Dental insurance
+• Health insurance
+• Paid time off
+
+Compensation Package:
+• Hourly pay
+• Overtime pay
+• Signing bonus
+
+Schedule:
+• Monday to Friday
+
+Work Location: Remote","{'posted_at': '5 days ago', 'salary': '77K–90K a year', 'work_from_home': True, 'schedule_type': 'Full-time', 'qualifications': 'No degree mentioned', 'health_insurance': True, 'dental_coverage': True, 'paid_time_off': True}",Data Analyst
+Data Analyst,KPA,"Westminster, CO",Lever,"Founded in 1986, KPA is a leading provider of Workforce Compliance software and consulting services. We succeed if our clients can send their employees home at night, having not experienced a workplace accident or injury. The combination of software, consulting, and training helps clients identify, remedy, and prevent workplace safety and compliance problems so they can focus on what’s important – their core business.
+
+Help us help keep people safe and businesses working efficiently. Named as one of Built In Colorado’s Best Places to Work for six years in a row, KPA is made up of talented individuals working together for the greater good. We’re here to help our clients build safe, thriving organizations, and we’re looking for people with a common goal to help us do it.
+
+Position Description:
+
+We’re looking for a detail-oriented Data Analyst to support our Revenue Operations team. You'll be instrumental in ensuring our data is accurate, actionable, and aligned across teams, contributing significantly to data-driven decision-making at KPA.
+
+This role is ideal for someone passionate about working with complex datasets, providing clear insights, and helping streamline data processes across Sales, Marketing, and Product teams.
+
+Why should you apply?
+
+Have the chance to:
+
+- be part of a vibrant, fast-growing SaaS company with plenty of room for personal and professional growth.
+
+- Work with a supportive, inclusive team that values continuous learning and development.
+
+- Gain exposure to a wide variety of data tools, platforms (including Salesforce), and cross-departmental collaboration.
+
+Responsibilities:
+
+Data Management
+• Collect, clean, and validate data to maintain high-quality, reliable datasets.
+• Coordinate and oversee data integration efforts, collaborating with cross-functional teams to ensure seamless data flows.
+• Maintain and enhance databases to ensure consistency, accuracy, and integrity of stored data.
+• Identify, troubleshoot, and resolve data quality issues proactively.
+• Document data processes, systems, and workflows clearly for internal use.
+• Develop and deliver training resources in collaboration with Enablement to enhance team proficiency with data tools and processes.
+
+Data and Business Analysis
+• Utilize Salesforce data for comprehensive analysis, reporting, and quality monitoring.
+• Develop, maintain, and enhance dashboards and visualizations using Excel (advanced functions, pivot tables, macros), Tableau, Power BI, and Salesforce dashboards.
+• Generate regular and ad-hoc reports to track business KPIs and provide actionable insights.
+• Collaborate closely with business stakeholders to understand data needs and deliver tailored reporting solutions.
+• Translate complex data findings into clear, actionable insights for both technical and non-technical stakeholders.
+
+Knowledge, Experience, Requirements
+• Bachelor’s degree in Data Science, Business Analytics, Computer Science, Statistics, or a related field, or 1–2 years of experience in a data-related role, preferably in a SaaS environment.
+• Advanced proficiency with SQL and Excel, including macros and power queries.
+• Experience working with Salesforce data, reporting, or data extraction tools (e.g., Salesforce reports, Data Loader, CRM integrations).
+• Experience with building reports and Dashboards in SFDC and data visualization tools (e.g., Tableau, Power BI).
+• Familiarity with data cleaning and transformation techniques.
+• Understanding of key business metrics in a SaaS environment (MRR, churn, LTV, etc.) is desirable.
+• Ability to work with large datasets and maintain attention to detail when validating and reporting data.
+
+Success Criteria
+• Strong analytical thinking and problem-solving skills with the ability to identify patterns, trends, inconsistencies, and errors in data.
+• Strong communication skills with the ability to explain insights to non-technical stakeholders.
+• Eagerness to learn new tools and grow your analysis skills.
+• Excellent organizational skills and ability to manage multiple tasks in a fast-paced environment.
+• Collaborative and proactive, with the ability to work independently and in a team setting.
+
+Compensation
+• Annual Base Salary Range of 60k-65k
+• Annual Bonus Opportunity of 7.5%
+
+Don’t meet every job requirement? At KPA, we are dedicated to building a diverse, inclusive, and authentic workplace. Studies have shown that women and people of color are less likely to apply unless they meet every requirement. If you’re excited about the role but your past experience doesn’t align perfectly with every qualification, we still encourage you to apply! You might just be the right candidate for this or other roles.
+
+As a growing company KPA values its employees by supporting them with a full benefits package including Medical, Dental, Vision, Flexible Spending Accounts, PTO, Paid and Floating Holidays, 401k with Company match and immediate vesting, Company-funded Life Insurance, Employee Assistance Programs, and No-cost Mental Health Benefits.
+
+About KPA
+
+Founded in 1986, KPA is a leading provider of Environment, Health & Safety (EHS), and Workforce Compliance software and consulting services. KPA solutions help clients identify, remedy, and prevent workplace safety and compliance problems across their entire enterprise. The combination of KPA's software, consulting services, and award-winning training content helps organizations minimize risk so they can focus on what's important—their core business.
+
+We are passionate about what we do, how we do and why we do it. Our culture is driven by the KPA core values – Integrity, Helpful, Excellence, Agile, Respectful, and Teamwork. Success will be determined by the capabilities, energy and character of the people we bring into our organization and the performance they achieve.
+
+KPA, with headquarters in Colorado and teammates throughout the United Sates, is recognized as one of Colorado's Best Midsize Places to Work by Built In Colorado for 2024.
+
+“To be ranked in Built In’s Best Places to Work Awards is a recognition of KPA’s dedication to creating a team of outstanding professionals and our efforts to create a positive and safe workplace culture for everyone,” said Chris Fanning, KPA President and CEO. “I believe we’ve developed a high caliber organization comprised of passionate people who are experts in their respective fields and deliver great value to our customers.”
+
+KPA is committed to providing equal opportunity in all of our employment practices, including selection, hiring, promotion, transfer, and compensation, to all qualified applicants and employees without regard to race, religion, religious dress/grooming, color, ethnicity, sex (including sex stereotyping), sexual orientation, gender identity or gender expression, national origin, ancestry, citizenship status, creed, uniform service member status, military or veteran status, marital status, pregnancy, breast-feeding and/or pregnancy-related conditions, age, protected medical condition, leave status, physical or mental disability, genetic characteristics, or any other legally-protected status in accordance with the requirements of all federal, state and local laws. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+If you need assistance or an accommodation due to a disability, you may contact us at hr@kpa.io.","{'posted_at': '19 days ago', 'schedule_type': 'Full-time', 'dental_coverage': True, 'paid_time_off': True, 'health_insurance': True}",Data Analyst
+"Transportation Data Analyst, Parcel and Freight",Intelligent Audit,Anywhere,Indeed,"Job Title: Transportation Analyst, Parcel and Freight
+
+Reports to: Professional Services Director / VP
+
+Intelligent Audit is a fast growing freight audit & business analytics technology company helping our customers become smarter shippers - shipping to their customers faster, cheaper, and with less delivery exceptions. We use big data to help our customers remove inefficiencies in their global transportation spend. The Transportation Analyst will perform quantitative analysis on complex transportation data sets. While all modes of transportation are necessary, it's a requirement to have parcel and freight experience.
+
+What You Will Do :
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The individual with this position in our company will be expected, on a regular basis, to:
+• Performs quantitative analysis on complex data sets.
+• Work both independently and under the direction of a Project Manager, to pursue Clients’ interests.
+• Develop, qualify, and quantify strategic initiatives to progress clients toward transportation maturity using both systematic and ad hoc tools.
+• Apply industry knowledge and best practices to creatively develop strategies and initiatives to help clients increase efficiency, improve performance, and reduce costs.
+• Provide consultative knowledge, experience, and advice to both IA staff and clients within the areas of data quality, transportation, logistics, and/or supply chain, with specialized focus on analytics, cost containment, modeling, and negotiations.
+• Ability to communicate, effectively and with confidence and professionalism, via presentations (PowerPoint), verbal (both in person and via multi-media) and written to various levels of personnel. (Freight Payment Analyst to CEO)
+• Highlight areas of continuous improvement with the core business (freight audit, processing, & data integrity), and contribute to strategic planning initiatives
+• Act as the primary or secondary resource for customer-facing meetings
+• Ability to multi-task and meet all project deadlines, as well as target dates
+• Co-Lead sessions, document recommendations, and provide for scope management
+• Interact with Sales and assist with content and group demonstrations
+• Achieve targets for personal productivity as assigned
+
+What You Will Bring:
+• Excellent analytical skills, specifically using MS Access, MS Excel, and large data software tools (such as Tableau); Power BI and SQL experience is a plus.
+• Excellent oral, written, and presentation skills
+• Ability to work with and efficiently analyze large amounts of data to communicate the results in language easily understood by non-subject matter experts.
+• Ability to set and manage internal & external client expectations
+• Identify out of scope opportunities and address via out-of-scope services agreement
+
+Minimum Qualifications:
+• Minimum 3-5 years relevant transportation experience in one or more of the following disciplines: analytics, optimization, or sourcing.
+• Bachelor’s degree in logistics, engineering, IT, informatics, or related fields
+• Prior carrier enterprise-level analytics or carrier experience a plus
+• Parcel experience is a must","{'posted_at': '12 hours ago', 'salary': '75K a year', 'work_from_home': True, 'schedule_type': 'Full-time'}",Data Analyst
+"Analyst, HSG Data Analytics",DaVita Kidney Care,"Denver, CO",Built In Colorado,"2000 16th Street, Denver, Colorado, 80202, United States of America
+
+Location: Denver
+
+Schedule: Monday & Friday, remote; Tuesday, Wednesday, Thursday in office
+
+OVERVIEW
+
+Are you excited to kickstart your career in data analytics within the healthcare industry? Do you want to be part of a team that’s making a real difference in people’s lives every day? At DaVita, we’re looking for a Data Analyst to join our National Hospital Services team, where you’ll help support our hospital dialysis services and field operations across the country.
+
+In this role, you’ll be an important part of a strategic team responsible for maintaining, analyzing and reporting data that helps support our clinical outcomes, business development efforts, and gain exposure to both financial and operational planning. You’ll be supporting teams across the country and playing a key part in helping us deliver high-quality care to our patients.
+
+But this role isn’t just about the work—it’s about making a real impact. We’re looking for someone who’s passionate, eager to learn, and ready to contribute to a purpose-driven work culture. If you’re excited to engage with others, make a difference, and grow your career in a supportive and collaborative environment, we’d love for you to join us and help build the Greatest Health Care Community the World Has Ever Seen!
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+As a Data Analyst with DaVita’s Hospital Services Group (HSG), you'll play an important role in primarily supporting our Clinical and Business Development teams. You’ll be responsible for analyzing data, creating reports, application of critical thinking to problem solve, and assisting with projects to improve our data reporting systems. You’ll also work with teams across the country to enhance our data capabilities to support decision-making. This is a great opportunity for someone with a passion for data analytics and a desire to grow their skills in a dynamic, high-visibility role.
+
+Analytics and Technical Skills
+• Use analytical and statistical methods to provide actionable insights that help operators improve clinical outcomes and drive better decision-making.
+• Support the development and rollout of next-generation clinical analytics & data visualization capabilities in support of clinical team leaders using tools like Tableau, Alteryx, and Anaplan
+• Support the execution of opportunities for efficiencies and automation to continuously improve tools for clinical teams & operators
+• Maintain and enhance products to provide industry-leading insights and reporting to external partners
+• Collaborate with field teammates to assist with interpreting data and identifying opportunities for reporting improvements
+
+Problem Solving & Communication
+• Support with ad hoc questions, analyses, and shared inbox oversight for all data related emails
+• Break down complex problems into digestible pieces; develop robust approach to solve
+
+Strategic Initiative
+• Own the preparation of key clinical, business development, and operational reporting and forecasting on a monthly, quarterly, and annual basis
+• Own data analytics job aid development for new reporting and maintenance of existing job aids
+• Work cross-functionally to provide analytic and technical expertise to the broader team to support ongoing performance of HSG
+• Build a strong understanding of core business operations, clinical and operational data, and key performance metrics to support data analysis and decision-making.
+• Other ad hoc clinical, business development, and operational projects as needed
+
+QUALIFICATIONS
+• 1-2 year’s experience in analytics role, healthcare background preferred
+• Bachelor’s degree, quantitative disciplines preferred
+• Intermediate/Advanced Microsoft Excel experience
+• Proficiency with Microsoft Office suite
+• Knowledge of SQL and relational database querying for data extraction, manipulation, and analyses
+• Experience creating compelling data visualizations in Excel and other BI tools; Tableau and Alteryx experience strongly preferred
+• Experience with other business software and analytic/visualization/automation software & languages a plus (Salesforce, R, Python, Anaplan, SnapLogic)
+• Team-player able to work collaboratively within HSG and alongside our stakeholders
+• Strong communication skills to support email and phone
+• Ability to provide quantitative & problem solving skills
+
+What We’ll Provide:
+
+More than just pay, our DaVita Rewards package connects teammates to what matters most. Teammates are eligible to begin receiving benefits on the first day of the month following or coinciding with one month of continuous employment. Below are some of our benefit offerings.
+• Comprehensive benefits: Medical, dental, vision, 401(k) match, paid time off, PTO cash out
+• Support for you and your family: Family resources, EAP counseling sessions, access Headspace®, backup child and elder care, maternity/paternity leave and more
+• Professional development programs: DaVita offers a variety of programs to help strong performers grow within their career and also offers on-demand virtual leadership and development courses through DaVita’s online training platform StarLearning.
+
+#LI-CM2
+
+At DaVita, we strive to be a community first and a company second. We want all teammates to experience DaVita as ""a place where I belong."" Our goal is to embed belonging into everything we do in our Village, so that it becomes part of who we are. We are proud to be an equal opportunity workplace and an affirmative action employer. As such, individuals are recruited, hired, assigned and promoted without regard to race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, protected veteran status, or any other protected characteristic.
+
+This position will be open for a minimum of three days.
+
+Salary/ Wage Range
+
+$56,500.00 - $93,000.00 / year
+
+Compensation for the role will depend on a number of factors, including a candidate’s qualifications, skills, competencies and experience and may fall outside of the range shown. DaVita offers a competitive total rewards package, which includes a 401k match, healthcare coverage and a broad range of other benefits. Learn more at https://careers.davita.com/benefits
+
+Colorado Residents: Please do not respond to any questions in this initial application that may seek age-identifying information such as age, date of birth, or dates of school attendance or graduation. You may also redact this information from any materials you submit during the application process. You will not be penalized for redacting or removing this information.","{'posted_at': '3 days ago', 'salary': '56.5K–93K a year', 'schedule_type': 'Full-time', 'paid_time_off': True, 'health_insurance': True, 'dental_coverage': True}",Data Analyst
+Data Analyst,City of Grand Junction,"Grand Junction, CO",GovernmentJobs.com,"DATA ANALYST
+Hiring Range: $6,390 - $7,191 Monthly
+Open until filled.
+New to the City? Receive 40 Hours Paid Time Off Upon Hire!
+Up to $2,500 in Relocation Reimbursement
+
+About the Position:
+As a Data Analyst with Visit Grand Junction, you will play a key role in formulating and applying statistical modeling to collect, analyze, interpret, and visualize data. Your work will yield actionable insights and optimize the team's destination marketing efforts.
+
+About Visit Grand Junction:
+Visit Grand Junction (Visit GJ), the Destination Marketing Organization, is a Department of the City of Grand Junction. Visit GJ is dedicated to marketing the Grand Junction area, outside of Mesa County, to attract year-round tourism, thereby providing for a sustainable and consistent economy and enhanced quality of life for residents. The team consists of dynamic individuals who are culture-focused, innovative, driven, and dedicated to supporting the travel and tourism industry while reaching departmental goals that serve the Grand Junction community and guests. The Department has evolved into a state-of-the-art marketing organization utilizing data science as its foundation.
+
+What We Offer:
+We know that a healthy and happy workforce is a thriving workforce, which is why we offer a comprehensive benefits package that supports quality work-life balance including 32 days of paid annual leave to be used for holiday, personal, and/or sick days, health insurance options, employer-matched retirement, a City employee health clinic, wellness program, and an Employee Assistance Program. Of equal importance, we offer an opportunity to serve the community you love and live in. Our employees find their work rewarding and fulfilling, knowing that their day job makes a positive impact.
+
+Our Culture:
+At the City of Grand Junction, we lead the way with continuous improvement, collaborative partnerships, and exemplary service. Our core values are demonstrated by our willingness to challenge the status quo, ability to work together using all areas of expertise to achieve a common goal, and commitment to fulfilling the needs of our community through thoughtful interactions.
+
+What You'll Do:
+• Mine data and measure performance of existing marketing campaigns using predictive analytics and statistical programming languages including A/B and multivariate testing; analyze, plan, monitor, and optimize data to enhance the performance of future campaigns to maximize performance outcomes.
+• Develop strategies to enhance data availability, quality, and usefulness for decision making for earned, owned, and paid media to increase visitation and related sales and lodging tax revenue for the City of Grand Junction; interpret data using scientific methods to provide ongoing actionable insights and create high-level and in-depth reports and presentations.
+• Manage the development of analytical tools, develop key performance indicators (KPI), and outcome metrics; identity, analyze, and interpret patterns in large, complex data sets; develop database queries using programming language tools to extract, transform, and load data for analytics and marketing campaign execution.
+• Develop, create, and maintain Visit Grand Junction’s data platform and dashboards using data visualization platforms to facilitate fact-based internal staff communication, prioritization, and decision making; follow-up with staff, monitor actionable insights and discover operational improvement opportunities.
+• Seek a comprehensive understanding of the Grand Junction visitor and analyze visitor engagements throughout the entire customer journey; offer new perspectives on the Grand Junction travel market, visitors, and the local tourism economy; make recommendations to improve destination brand engagement and drive visitation.
+• Prioritize information and data needs of contractors, research methodologies, and assist with proper selection of contractors throughout the procurement process.
+• Oversee department-specific and industry-wide research including visitor profile and economic impact research; develop first-party data and manage third-party app data.
+• Prepare communications highlighting Visit Grand Junction's performance and insights to stakeholders, elected officials, Visit Grand Junction Advisory Board of Directors, and the public; translate data analytics into non-technical language and presentations that can be easily understood by external audiences.
+• Proactively and regularly conduct market and competitor research, including KPIs, and provide regular updates and insights to support marketing strategies and business development.
+• Maintain up-to-date skills in the dynamic field of data science, marketing, analytics, and data visualization platforms; seek out continuing education, certification, and training opportunities; stay current with market trends and continually improve strategies, tactics, and techniques; evaluate emerging technologies for destination marketing.
+Click here to view the full job description for Data Analyst.What We're Looking For:
+• Two (2) years of professional experience in marketing and/or business analytics.
+• Bachelor’s degree in Statistics, Mathematics, Computer Science, Physics, or another quantitative field.
+• Possession of, or ability to obtain, a valid Colorado driver's license.
+Explore the Area:
+Grand Junction, Colorado is the gateway to the mountains and canyonlands of western Colorado and eastern Utah. Centrally located between Denver, CO (250 miles east) and Salt Lake City, UT (270 miles west), Grand Junction is surrounded by 1.2 million acres of public land. Residents enjoy world-class whitewater rafting on the Colorado and Green Rivers, golfing, fishing, skiing and snowboarding, and exploring mountain bike and hiking trails through the Colorado National Monument and the Grand Mesa National Forest. Grand Junction has a robust downtown and hosts multiple art, music, food, and market events annually. With a population of over 150,000 in Mesa County (65,000 within the City limits) we have many of the big town amenities without the big town stresses such as traffic and trail congestion. With an average of 245 days of sunshine, Grand Junction is the perfect place to work and play.
+
+Learn more about our area on Visit Grand Junction's website and Instagram!
+At the City of Grand Junction, we proudly operate as an Equal Opportunity Employer, purposely building an inclusive workforce representative of various cultures, perspectives, and experiences. We believe in respect for all and do not discriminate based on race, color, religion, sex, gender identification, sexual orientation, national origin, age, disability, and/or genetic information.
+
+If you have questions or need assistance or accommodation due to a disability, please contact our Human Resources office at 970.244.1512","{'salary': '6,390.80–7,191.60 a month', 'schedule_type': 'Full-time', 'dental_coverage': True, 'health_insurance': True, 'paid_time_off': True}",Data Analyst
+Social Media Data Analyst Needed,Upwork,Anywhere,Upwork,"Overview:
+
+Fast-growing creative agency (GLATIVE) seeking a data-driven Social Media Analyst. Initial paid trial focusing on TikTok trend analysis and performance optimization.
+
+Current Client Need:
+
+- Two TikTok pages
+
+- Dance/music trend optimization
+
+- Performance tracking
+
+- Growth strategy
+
+Trial KPIs (Must achieve within 5 hours):
+
+✅ Analyze 10 trending dance/music TikToks in target niche
+
+✅ Provide detailed performance metrics analysis
+
+✅ Create content strategy recommendations
+
+✅ Develop 2 growth optimization plans
+
+Required Skills:
+
+- TikTok analytics expertise
+
+- Data analysis proficiency
+
+- Trend forecasting ability
+
+- Performance optimization experience
+
+- Available during AEST business hours
+
+Must Provide:
+
+- Previous social media analysis examples
+
+- ROI improvement case studies
+
+- Platform-specific expertise proof
+
+Trial Deliverables:
+
+1. Trend Analysis Report
+
+2. Performance Metrics Dashboard
+
+3. Content Strategy Document
+
+4. Growth Recommendations","{'posted_at': '3 days ago', 'work_from_home': True, 'schedule_type': 'Contractor', 'qualifications': 'No degree mentioned'}",Data Analyst
+Junior Data Analyst - Remote (Work From Home) at USA,Clarios,Anywhere,Indeed Jobs USA - Clarios,"Are you a data enthusiast with a keen eye for detail? Is seeking a Junior Data Analyst to join our remote team and contribute to the exciting world of data analytics. As a Junior Data Analyst, you will play a pivotal role in interpreting and analyzing data, helping to uncover valuable insights that will guide strategic business decisions.
+
+Responsibilities:
+
+? * Collaborate with cross-functional teams to understand data requirements and objectives
+
+? * Collect, clean, and validate data from various sources
+
+? * Perform data analysis using statistical methods and present findings to stakeholders
+
+? * Develop and maintain data visualization reports and dashboards
+
+? * Assist in identifying trends, patterns, and anomalies within datasets
+
+? * Contribute to the continuous improvement of data processes and tools
+
+? Required Skills:
+
+? * Proficiency in data analysis tools and languages such as Python, R, or SQL
+
+? * Strong analytical and problem-solving skills
+
+? * Familiarity with data visualization tools (e.g., Tableau, Power BI)
+
+? * Excellent communication skills to convey complex findings to non-technical stakeholders
+
+? * Ability to work independently and collaboratively in a remote setting
+
+How to Apply: If you are excited about the prospect of joining a dynamic team and making a meaningful impact in the field of data analysis, we encourage you to apply. Please submit your resume, along with a cover letter highlighting your relevant experience and why you are the ideal candidate for this role, to us.","{'posted_at': '2 days ago', 'work_from_home': True, 'schedule_type': 'Full-time', 'qualifications': 'No degree mentioned'}",Data Analyst
+Internal Audit Data Analyst,GE Aerospace,Anywhere,GE Aerospace,"Job Description Summary
+Whether you want to work at one of our facilities as a data analyst helping to make business decisions or at headquarters on a larger audit team, we have an opportunity for you. You’ll work with data sets of various sizes and complexities, collaborating with others. Our Finance and Accounting teams span the globe, providing unmatched learning, development, and career growth opportunities.
+
+Reporting to the Senior Manager, Internal Audit Data Analytics, GE Aerospace, this role will focus on leveraging data analytics to enhance audit processes. The Internal Audit Data Analyst will lead efforts in continuous auditing, monitoring, automation of control testing, full population testing, and providing enhanced coverage and broader oversight of risk. This role will utilize modern data assessment tools and techniques, including SQL, PowerBI, Spotfire, Alteryx, and Python, to develop and implement a best-in-class audit methodology tailored to the unique needs of GE Aerospace.
+
+Job Description
+
+GE Aerospace is amid a significant transformation of its portfolio, leadership, operations, and culture. One of the top priorities within this transformation is the Internal Audit function. GE Aerospace is evolving the function, focusing on the development of data-driven and automation-enabled audit expertise to serve as a true business partner for the audit committee and executive leaders, while maintaining its commitment to talent development.
+
+A key dimension of this role will be supporting efforts in audit analytics, continuous auditing, monitoring, automation of control testing, full population testing, providing enhanced coverage, and broader oversight of risk. To accomplish this, the Internal Audit Data Analyst will:
+• Data Integration and Analysis: Utilize SQL, Tableau, PowerBI, ETL processes, Alteryx, and Python to integrate and analyze data from various sources, providing insights that inform audit planning and execution.
+• Automation: Develop automated workflows and control testing processes that provide full population testing and enhanced risk coverage.
+• Collaboration and Training: Train and mentor audit team members on data analytics tools and best practices; promote the use of analytics within the audit function to drive data-driven decision-making.
+• Flexible Strategy Implementation: Adopt a flexible strategy that utilizes data analytics to tailor audit procedures to unique technology platforms and data sources.
+
+Key Responsibilities:
+• Data Collection and Analysis: Collect, process, and analyze large datasets from multiple sources to identify trends, irregularities, and opportunities for operational improvements.
+• Audit Support: Provide data-driven insights and support to audit teams throughout all phases of the audit lifecycle, including planning, fieldwork, and reporting
+• Continuous Auditing: Build and maintain a library of reusable data analytics procedures and tools for ongoing audit activities.
+• Risk Assessment and Monitoring: Work closely with audit and business units to develop continuous monitoring techniques and risk indicators using data analytics.
+• Visualization and Reporting: Build intuitive data visualizations, dashboards, and reports to communicate findings, trends, and risks to the audit team and senior management.
+• Collaboration and Training: Train and mentor audit team members on data analytics tools and best practices; promote the use of analytics within the audit function.
+• Continuous Improvement: Identify and implement opportunities for process improvements within the audit department using data-driven approaches.
+
+Qualifications:
+• Education: Bachelor's Degree with preferred concentration in Computer Science, Data Science, Information Technology, or in ""STEM"" Majors (Science, Technology, Engineering, and Math) or Business Administration with a minor in Business Analytics.
+• Experience: 3 years’ experience in data analytics or a similar role. Experience in a corporate environment is preferred.
+• Technical Skills: Proficiency in data analytics, data visualization (e.g., Alteryx, KNIME, Tableau, Power BI, Spotfire) and programming languages (e.g., SQL, Python).
+• Analytical Skills: Strong analytical, problem-solving, and critical-thinking abilities.
+• Communication Skills: Excellent written and verbal communication skills with the ability to present complex data insights to non-technical stakeholders.
+
+Desired Characteristics:
+• Experience in lean principles or process improvement methodologies
+• Background in internal audit data analytics
+• Familiarity with Aerospace or advanced manufacturing industry
+• Experience with machine learning for predictive analytics and creating custom RAG LLMs
+
+The base pay range for this position is $80,000-$110,000. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set. This position is also eligible for an annual discretionary bonus based on a percentage of your base salary. This posting is expected to close on May 17th.
+
+Healthcare benefits include medical, dental, vision, and prescription drug coverage; access to a Health Coach, a 24/7 nurse-based resource; and access to the Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral services. Retirement benefits include the GE Retirement Savings Plan, a tax-advantaged 401(k) savings opportunity with company matching contributions and company retirement contributions, as well as access to Fidelity resources and planning consultants. Other benefits include tuition assistance, adoption assistance, paid parental leave, disability insurance, life insurance, and paid time-off for vacation or illness.
+
+General Electric Company, Ropcor, Inc., their successors, and in some cases their affiliates, each sponsor certain employee benefit plans or programs (i.e., is a “Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.
+
+Additional Job Description
+
+Additional Information
+
+Compensation Grade
+
+LPB2
+
+GE Aerospace offers a great work environment, professional development, challenging careers, and competitive compensation. GE Aerospace is an Equal Opportunities Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+GE Aerospace will only employ those who are legally authorized to work in the United States for this opening.
+
+Relocation Assistance Provided: No","{'posted_at': '1 day ago', 'work_from_home': True, 'schedule_type': 'Full-time', 'health_insurance': True, 'dental_coverage': True, 'paid_time_off': True}",Data Analyst
+Machine Learning Engineer,Qualtrics,"Seattle, WA",Qualtrics,"At Qualtrics, we create software the world’s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform—we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention—but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customers.
+
+When you join one of our teams, you’ll be part of a nimble group that’s empowered to set aggressive goals and move fast to achieve them. Strategic risks are encouraged and complex problems are solved together, by passing the mic and iterating until the best solution comes to light. You won’t have to look to find growth opportunities—ready or not, they’ll find you. From retail to government to healthcare, we’re on a mission to bring humanity, connection, and empathy back to business. Join over 5,000 people across the globe who think that’s work worth doing.
+
+Machine Learning Engineer
+
+Why We Have This Role
+
+We are looking for an engineer to bring our Machine Learning and Artificial Intelligence R&D strategy to the next level. Our goal is to personalize the Qualtrics experience using ML and AI features showcasing Qualtrics data as a core value proposition and competitive advantage.
+
+You should love building simple solutions to solve hard customer problems. Crafting systems in an agile environment to withstand hyper growth and owning quality from end to end is a rewarding challenge and one of the reasons Qualtrics is such an exciting place to work!
+
+How You’ll Find Success
+• Work in a supportive environment enables individual growth and achievement of team goals
+• Collaborate with your peers, prioritize features, and work with a sense of urgency to deliver value to our customers
+• Develop scalable, robust, and highly available micro services to perform simple to complex statistical analyses and build/deploy machine learning models
+• Implement new features and optimize existing ones to delight our customers
+
+How You’ll Grow
+• Work in a multi-disciplinary team to implement, tune, and productize cutting-edge machine learning models to meet the demands of our rapidly growing business
+• Build and maintain highly scalable data pipelines to cleanse, anonymize, measure, and index complex and multi-modal data.
+
+Things You’ll Do
+• Work closely with, and incorporate feedback from other specialists, tech-ops, and product managers
+• Lead and engage in design reviews, architectural discussions, requirement definitions and other technical activities in diverse capacity
+• Attend daily stand-up meetings, collaborate with your peers, prioritize features, and work with a sense of urgency to deliver value to your customers
+• Finding quick ways to prototype and test possible solutions to large problems
+
+What We’re Looking For On Your Resume
+• Bachelor’s degree in Computer Science or related fields.
+• Interest in modern machine learning / deep learning systems
+• Strong Computer Science fundamentals in algorithm design, complexity analysis, and performance
+• Experience in programming with at least one modern programming language such as Java, C# or Python, including object-oriented design
+• Experience with applied machine learning models and large-scale ML systems
+
+What You Should Know About This Team
+• The Data Intelligence Center of Excellence (DICE) organization provides AI/ML research and development services for all product lines.
+• This team builds core machine learning infrastructure and services.
+• We partner with application teams to deliver ML algorithms and models that drive efficiency, innovation, and growth.
+
+Our Team’s Favorite Perks and Benefits
+• $1800 Experience bonus to be used for an “Experience” of your choosing
+• Unlimited Sick Days
+• Amazing QGroup Communities; MOSAIQ, Green Team, Qualtrics Pride, Q&Able, Qualtrics Salute, and Women’s Leadership Development, which exist as places for support, allyship, and advocacy.
+
+The Qualtrics Hybrid Work Model: Our hybrid work model is elegantly simple: we all gather in the office three days a week; Mondays and Thursdays, plus one day selected by your organizational leader. These purposeful in-person days in thoughtfully designed offices help us do our best work and harness the power of collaboration and innovation. For the rest of the week, work where you want, owning the integration of work and life.
+
+Qualtrics is an equal opportunity employer meaning that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other protected characteristic.
+
+​​​​​​​Applicants in the United States of America have rights under Federal Employment Laws:Family & Medical Leave Act,Equal Opportunity Employment,Employee Polygraph Protection Act
+
+Qualtrics is committed to the inclusion of all qualified individuals. As part of this commitment, Qualtrics will ensure that persons with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please let your Qualtrics contact/recruiter know.
+
+Not finding a role that’s the right fit for now? Qualtrics Insiders is the one-stop shop for all things Qualtrics Life. Sign up for exclusive access to content created with you in mind and get the scoop on what we have going on at Qualtrics - upcoming events, behind the scenes stories from the team, interview tips, hot jobs, and more. No spam - we promise! You'll hear from us two times a month max with fresh, totally tailored info - so be sure to stay connected as you explore your best role and company fit.
+
+For full-time positions, this pay range is for base per year; however, base pay offered may vary depending on location, job-related knowledge, education, skills, and experience. A sign-on bonus and restricted stock units may be included in an employment offer, in addition to a range of medical, financial, and other benefits, based on eligibility criteria.
+
+Washington State Annual Pay Transparency Range
+$99,500—$187,000 USD","{'posted_at': '1 day ago', 'schedule_type': 'Full-time', 'health_insurance': True}",Machine Learning Engineer
+Senior Machine Learning Engineer,Adobe,"San Jose, CA",Adobe Careers,"JOB LEVEL
+P50
+
+EMPLOYEE ROLE
+Individual Contributor
+
+Adobe is seeking a Senior Machine Learning Engineer to contribute to the development of machine learning models and platform for personalized customer experiences. As a senior member of the Decision Sciences team, you will lead the development of machine learning solutions that support business objectives and user experience improvements. This role involves working on complex, large-scale projects that impact Adobe’s technology and industry practices.
+You will collaborate with Adobe Research and other business units to craft products focused with AI at core. The team is comprised of engineers and scientists working in a data-driven environment.
+The Decision Sciences team develops AI/ML-powered solutions for Adobe’s Digital Experience products, focusing on personalization and operational efficiency for customers.
+
+What you'll Do
+• Lead engineers in the team and collaborate with product managers to craft, develop, and implement machine learning models and systems that address complex business challenges.
+• Architect and optimize end-to-end ML pipelines, ensuring scalability, efficiency, and robustness.
+• Facilitate alignment among senior leadership on innovative ideas and central initiatives.
+• Engage with different teams to incorporate ML algorithms into Adobe products, influencing product strategy and architecture.
+• Conduct detailed testing, debugging, and performance tuning of ML models and systems.
+• Mentor and guide junior team members, sharing knowledge and standard methodologies to foster a culture of continuous learning and innovation.
+• Publish technical papers, contribute to open-source projects, and represent Adobe at industry conferences and forums.
+• Provide technical leadership and expertise, driving the adoption of new technologies and standards within the organization.
+
+What you need to succeed
+The ideal candidate will have the following background:
+• Bachelor's or advanced degree with 8+ years experience, or PhD with 5+ years experience in developing, evaluating, and deploying ML models in production.
+• Deep expertise in machine learning, statistical modeling, and data analysis techniques.
+• Proven track record of developing and deploying ML models in production environments.
+• Strong programming skills in languages such as Python, Java, or C++, and experience with ML frameworks like scikit-learn, SparkML, TensorFlow, PyTorch, or similar.
+• Excellent problem-solving skills and the ability to tackle complex technical challenges.
+• Strong communication and collaboration skills, with the ability to influence and encourage multi-functional teams.
+• Experience in mentoring and guiding junior engineers, encouraging a collaborative and innovative team environment.
+• A passion for continuous learning and staying ahead of the latest advancements in machine learning and related technologies.
+• Experience working with both research and product teams.
+
+Adobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.
+Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees.
+
+#AEPGENAI
+
+Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $162,000 -- $301,200 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process.
+
+At Adobe, for sales roles starting salaries are expressed as total target compensation (TTC = base + commission), and short-term incentives are in the form of sales commission plans. Non-sales roles starting salaries are expressed as base salary and short-term incentives are in the form of the Annual Incentive Plan (AIP).
+
+In addition, certain roles may be eligible for long-term incentives in the form of a new hire equity award.
+
+State-Specific Notices:
+
+California:
+
+Fair Chance Ordinances
+
+Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+
+Colorado:
+
+Application Window Notice
+
+If this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.
+
+Massachusetts:
+
+Massachusetts Legal Notice
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Internal Opportunities
+
+Creativity, curiosity, and constant learning are celebrated aspects of your career growth journey. We’re glad that you’re pursuing a new opportunity at Adobe!
+
+Put your best foot forward:
+
+1. Update your Resume/CV and Workday profile – don’t forget to include your uniquely ‘Adobe’ experiences and volunteer work.
+
+2. Visit the Internal Mobility page on Inside Adobe to learn more about the process and set up a job alert for roles you’re interested in.
+
+3. Check out these tips to help you prep for interviews.
+
+4. If you are applying for a role outside of your current country, ensure you review the International Resources for Relocating Employees on Inside Adobe, including the impacts to your Benefits, AIP, Equity & Payroll.
+
+Once you apply for a role via Workday, the Talent Team will reach out to you within 2 weeks. If you move into the official interview process with the hiring team, make sure you inform your manager so they can champion your career growth.
+
+At Adobe, you will be immersed in an exceptional work environment that is recognized around the world. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.
+
+Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.
+
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.","{'posted_at': '10 days ago', 'schedule_type': 'Full-time'}",Machine Learning Engineer
+Machine Learning Engineer 2,Intuit,"Mountain View, CA (+3 others)",Jobs At Intuit,"In this role, you’ll be embedded inside a vibrant team of data scientists. You’ll be expected to help conceive, code, and deploy data science models at scale using the latest industry tools. Important skills include data wrangling, feature engineering, developing models, and testing metrics. You can expect to...
+
+Responsibilities
+• Discover data sources, get access to them, import them, clean them up, and make them “machine learning ready”.
+• Work with data scientists to create and refine features from the underlying data and build pipelines to train and deploy models.
+• Partner with data scientists to understand, implement, refine and design machine learning and other algorithms.
+• Run regular A/B tests, gather data, perform statistical analysis, draw conclusions on the impact of your models.
+• Work cross functionally with product managers, data scientists and product engineers, and communicate results to peers and leaders.
+• Explore new technology shifts in order to determine how they might connect with the customer benefits we wish to deliver.
+
+Intuit provides a competitive compensation package with a strong pay for performance rewards approach. The expected base pay range for this position is New York $132,000 – 178,500, Bay Area California $136,00 – 184,000, Southern California $122,500 – 165,500 . This position will be eligible for a cash bonus, equity rewards and benefits, in accordance with our applicable plans and programs (see more about our compensation and benefits at Intuit®: Careers | Benefits). Pay offered is based on factors such as job-related knowledge, skills, experience, and work location. To drive ongoing pay equity for employees, Intuit conducts regular comparisons across categories of ethnicity and gender.","{'schedule_type': 'Full-time', 'health_insurance': True}",Machine Learning Engineer
+Machine Learning Engineer,Sajix Software Solution Private Limited,"Pleasanton, CA",Indeed,"Company Description
+
+Sajix Inc. is a global health-tech company headquartered in Pleasanton, California, focused on transforming healthcare delivery through advanced digital solutions. Since its founding in 2006, Sajix has specialized in developing integrated healthcare information systems that streamline clinical, financial, and administrative operations for healthcare organizations around the world.
+
+With operations in the United States, United Kingdom, Singapore, and India, Sajix serves clients across North America, Europe, Asia, and Africa. Its flagship platform, iHelix, is a modular, scalable solution designed for use in diverse healthcare settings—from single-doctor practices to large hospital networks.
+
+Sajix offers a comprehensive suite of digital healthcare solutions, including:
+• iHelix
+• Lifeeazy
+• AI-based Revenue Cycle Management – optimizing financial workflows through automation
+
+All products are built with global standards in mind, supporting multiple languages and currencies, and comply with international healthcare regulations such as CCR and CCD.
+
+Through strategic partnerships and a commitment to innovation, Sajix continues to lead the industry in delivering intelligent, interoperable, and patient-centric healthcare solutions.
+
+Website: www.sajix.com
+
+Job Description
+
+About the Role:
+Join Sajix as a Machine Learning Engineer Trainee to assist in building and deploying ML models that enhance our healthcare intelligence platform and improve clinical outcomes.
+
+Key Responsibilities:
+• Support training and deployment of machine learning models.
+• Collaborate with data scientists to implement algorithms in production.
+• Learn about model optimization, testing, and monitoring.
+• Work on real-world healthcare datasets to solve classification and prediction problems.
+
+Qualifications
+
+Requirements:
+• Bachelor’s/Master’s in Computer Science, Data Science, or related field.
+• Solid programming skills in Python.
+• Understanding of ML algorithms and frameworks like TensorFlow, PyTorch, or Scikit-learn.
+• Bonus: Exposure to model deployment tools or cloud platforms.
+
+Additional Information
+
+These trainee roles are offered in collaboration with Sajix’s __init__py program—a structured, hands-on learning initiative aimed at nurturing the next generation of full-stack developers and technology professionals. The program offers tiered training tracks.
+
+Participants gain real-world experience through live projects, personalized mentorship, and exposure to industry-relevant tools and practices. This collaboration ensures that trainees are well-equipped with practical skills and knowledge to excel in their roles.
+
+For more information about the __init__py program, visit initpy.sajix.com.","{'posted_at': '4 days ago', 'schedule_type': 'Internship'}",Machine Learning Engineer
+Staff Machine Learning Engineer - Music,Spotify,New York,Taro,Staff Machine Learning Engineer position at Spotify focusing on building and improving Discovery Mode and royalty programs for music creators.,"{'posted_at': '7 hours ago', 'salary': '215K–307K a year', 'schedule_type': 'Full-time'}",Machine Learning Engineer
+Machine Learning Engineer II,Chewy,"Richardson, TX",Chewy Careers,"Our Opportunity:
+
+We are seeking a talented and passionate Machine Learning Engineer II to join our growing team. In this role, you will play a crucial part in building and deploying machine learning solutions that empower our Chewy Customer Care teams. As a Machine Learning Engineer II, you will be a key contributor throughout the machine learning lifecycle, from data preparation and model development to deployment and monitoring. You will have the opportunity to work on diverse projects and contribute directly to the success of the company.
+
+What You'll Do:
+• Design and implement robust data pipelines for efficient data ingestion, processing, and feature engineering.
+• Ensure data quality and consistency for model training and inference.
+• Work with large datasets and apply data scaling techniques.
+• Select and build appropriate machine learning models based on business requirements and data characteristics.
+• Train and evaluate models using various techniques and metrics.
+• Fine-tune models to achieve optimal performance and efficiency.
+• Deploy machine learning models to production environments, ensuring scalability, reliability, and maintainability.
+• Implement monitoring and alerting systems to track model performance and identify potential issues.
+• Optimize models for inference speed and resource utilization.
+• Work closely with data scientists, software engineers, and business stakeholders to understand requirements and deliver solutions.
+• Effectively communicate technical concepts and findings to both technical and non-technical audiences.
+
+What You'll Need:
+• Bachelor's degree in Computer Science, Machine Learning, or a related field.
+• 3+ years of experience as a Machine Learning Engineer or in a similar role.
+• Strong programming skills in Python or another relevant language.
+• Experience with machine learning frameworks and libraries (e.g., TensorFlow, PyTorch, scikit-learn).
+• Experience with SQL and relational databases.
+
+Nice to Have:
+• Familiarity with big data technologies (e.g., Spark, Iceberg, dbt).
+• Familiarity with AWS cloud technologies (e.g., Glue, Sagemaker, Athena, Redshift).
+• Experience with data visualization tools (e.g., Tableau, Streamlit, Plotly).
+• Knowledge of retail and e-commerce.
+• Solid understanding of machine learning algorithms and best practices.
+• Experience with cloud computing platforms (e.g., AWS, Azure, GCP).
+• Excellent communication and presentation skills.
+
+Chewy is committed to equal opportunity. We value and embrace diversity and inclusion of all Team Members. If you have a disability under the Americans with Disabilities Act or similar law, and you need an accommodation during the application process or to perform these job requirements, or if you need a religious accommodation, please contact CAAR@chewy.com.
+
+If you have a question regarding your application, please contact HR@chewy.com.
+
+To access Chewy's Customer Privacy Policy, please click here. To access Chewy's California CPRA Job Applicant Privacy Policy, please click here.","{'posted_at': '8 hours ago', 'schedule_type': 'Full-time'}",Machine Learning Engineer
+Machine Learning Software Engineer (SMTS),"Advanced Micro Devices, Inc","Santa Clara, CA",AMD Careers,"WHAT YOU DO AT AMD CHANGES EVERYTHING
+
+We care deeply about transforming lives with AMD technology to enrich our industry, our communities, and the world. Our mission is to build great products that accelerate next-generation computing experiences – the building blocks for the data center, artificial intelligence, PCs, gaming and embedded. Underpinning our mission is the AMD culture. We push the limits of innovation to solve the world’s most important challenges. We strive for execution excellence while being direct, humble, collaborative, and inclusive of diverse perspectives.
+
+AMD together we advance_
+
+THE GROUP:
+
+AI is defining the next era of computing, and this is just the beginning. We see the benefits of AI every day—enabling medical research, curbing credit card fraud, reducing congestion in cities, or simply making life easier.
+
+In the ever-evolving landscape of artificial intelligence, we are a powerhouse – a cutting-edge 'AI Software Solutions Team'. Specialized in AI optimization, fine-tuning large language models to unlock unprecedented Generative AI efficiency. Our expertise extends beyond the hardware realm, encompassing 3P enablement, where we develop custom AI Software Solutions for Industry leading AI customers. Are you excited to work with one of Top 1% of the AI companies in the world?
+
+THE ROLE:
+
+Would you like to be part of a world class team enabling software for world class datacenters and the mightiest supercomputers? AMD is searching for talented and highly motivated Software Engineers to join our team of developers pushing the boundaries of efficiency and performance to enable and optimize the software ecosystem for the next generation of GPU computational accelerators. Our team has an unparalleled perspective of the AI landscape. We work with the industry’s most sophisticated clients to help them leverage the latest hardware capabilities for their AI use cases. As part of our team, you will be among the first in the world to combine the newest hardware with the industry’s latest applications, libraries, frameworks, and SDKs to push the limits of innovation and solve the world’s most complex challenges.
+
+THE PERSON:
+
+We are looking for a highly motivated and skilled Principal Machine Learning Software Engineer to join our team. You will work with a team of Software Engineers to enable models, libraries, and applications for Instinct GPUs in both on-prem and Cloud environments. Candidates should have strong Python or C++ Programming experience working with LLM's (Large Language Models) Candidates should also have experience analyzing and optimizing the performance of software. Must be self-motivated and possess the ability to work well within a team environment. This is a senior level role, you must have at least 4 years of post college experience.
+
+Job Description
+
+As a Machine Learning Engineer specializing in low-level performance optimization, you will play a critical role in helping our customers to advance AMD-based machine learning infrastructure and ensuring the efficient deployment of state-of-the-art large models. You will be part of a dynamic team working on groundbreaking projects and will be responsible for optimizing model execution, including GPU kernels, both for inference and training, in a multi-GPU and multi-node environment. Your contributions will directly impact our ability to deliver cutting-edge AI solutions efficiently and at scale.
+
+Key Responsibilities
+• GPU Kernel Optimization: Develop and optimize low-level GPU kernels to accelerate inference and training of large machine learning models. Maximize the computational efficiency and reduce execution time while ensuring model accuracy. Expert knowledge and hands-on experience in C, C++.
+• Multi-GPU and Multi-Node Optimization: Design and implement strategies for distributed model training and inference across multiple GPUs and nodes. Address data parallelism and model parallelism challenges to fully utilize available resources.
+• Performance Profiling: Profile and analyze system and application performance to identify bottlenecks and areas for improvement. Use profiling tools to understand and optimize hardware resource utilization.
+• Parallel Computing: Leverage parallel computing techniques to improve the scalability and performance of machine learning workloads. Implement multi-threading and GPU synchronization techniques.
+• Model Quantization: Explore and apply model quantization techniques to reduce memory and computation overhead, especially for edge and cloud deployment.
+• Benchmarking and Testing: Develop benchmarks and testing procedures to assess the performance and stability of optimized models and frameworks. Ensure that the solutions meet or exceed the defined performance criteria.
+• Collaboration: Collaborate closely with machine learning researchers, software engineers, and infrastructure teams to integrate optimized kernels and solutions into production systems.
+• Documentation: Create detailed documentation of optimizations, best practices, and implementation guidelines to facilitate knowledge sharing and maintainable code.
+
+Preferred Qualifications
+• A Bachelor, Master's or Ph.D. in Computer Science, Electrical Engineering, or a related field or equivalent practical experience.
+• Solid understanding of GPU accelerators like ONNX, DeepSpeed, VLLM
+• Strong experience in low-level GPU kernel optimization.
+• Proficiency in CUDA and GPU programming.
+• Experience with distributed computing and multi-GPU environments.
+• Proficiency in performance profiling and optimization tools.
+• Solid programming skills in Python
+• Experience with deep learning frameworks (e.g., JAX, PyTorch, TensorFlow).
+• Excellent problem-solving skills and attention to detail.
+• Strong communication and teamwork skills.
+• #LI-G11
+
+#LI-HYBRID
+
+At AMD, your base pay is one part of your total rewards package. Your base pay will depend on where your skills, qualifications, experience, and location fit into the hiring range for the position. You may be eligible for incentives based upon your role such as either an annual bonus or sales incentive. Many AMD employees have the opportunity to own shares of AMD stock, as well as a discount when purchasing AMD stock if voluntarily participating in AMD’s Employee Stock Purchase Plan. You’ll also be eligible for competitive benefits described in more detail here.
+
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies, or fee-based recruitment services. AMD and its subsidiaries are equal opportunity, inclusive employers and will consider all applicants without regard to age, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, pregnancy, sexual orientation, gender identity, military or veteran status, or any other characteristic protected by law. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective laws throughout all stages of the recruitment and selection process.",{'schedule_type': 'Full-time'},Machine Learning Engineer
+"Machine Learning Engineer, Character Animation & Motion AI (Hiring Immediately)","Genies, Inc.","San Mateo, CA",Media Bistro,"Machine Learning Engineer, Character Animation & Motion AIGenies is an AI avatar and games technology company powering the next generation of digital experiences. Genies' technology stack is rooted in empowering user generated content through the company's two main mantras:
+“Anyone can create anything” & “Everything works with everything”
+By combining these two guiding principles, individuals can craft limitless experiences while IP owners can build dynamic social gaming ecosystems powered by user-generated content (UGC) and AI Avatars—what Genies calls Parties.
+Genies' technology stack features a comprehensive suite of UGC tools that enable anyone to create AI avatars, complete with customizable fashion, props, behaviors, and personalities, as well as immersive AI avatar experiences. At its core is theGenies Avatar Framework , which leverages machine learning and computer graphics to ensure seamless interoperability across all user-generated AI avatars and experiences—unlocking boundless creative potential.
+Early adopters of Genies’ first gen avatars include icons like Justin Bieber, Rihanna, J Balvin, Migos, and thousands more. With offices in Los Angeles and San Francisco, Genies has raised $200M from notable investors including Silver Lake, BOND, NEA, and Bob Iger.
+We are looking for anML Engineerwith a passion for highly configurable digital avatars and intuitive content tools that inspire user creativity. In this role, you will design and implement machine learning models, perform complex data analysis, and develop cutting-edge algorithms that push the boundaries of avatar expression and interactivity. You will be expected to propose innovative, data-driven solutions with minimal guidance, driving informed decision-making. Strong collaboration with cross-functional teams is essential to ensure the seamless deployment and optimization of machine learning systems. Additionally, staying ahead of the latest advancements in machine learning and artificial intelligence will be a key aspect of your role.
+What You’ll be Doing:
+Develop AI-driven character animation models for body motion, facial expressions, and behavioral AI.
+Train reinforcement learning (RL) or deep learning models to generate motion sequences.
+Work with game engines (Unity, Unreal) to integrate AI-generated animation.
+Collaborate with graphics engineers to blend AI motion with traditional animation.
+Optimize character movement for real-time applications (XR, mobile).
+What You Should Have:
+Bachelor's degree in Computer Science, Data Science, Statistics, or a related field.
+5+ years of experience in machine learning or related fields.
+Experience with data structures, data modeling, and software architecture.
+ML expertise (Deep learning, Reinforcement Learning, Motion AI)
+Experience with physics-based animation or motion synthesis
+Game engine knowledge (Unreal, Unity) for motion blending
+Experience with OpenUSD, Houdini (bonus)
+Starting Salary Range: $165,000 - $230,000
+Here's why you'll love working at Genies:
+You'll work with a team that you’ll be able to learn from and grow with, including support for your own professional development
+You'll be at the helm of your own career, shaping it with your own innovative contributions to a nascent team and product with flexible hours and a work from home policy
+You'll enjoy the culture and perks of a startup, with the stability of being well funded
+Comprehensive health insurance for you and your family (Anthem + Kaiser Options Available), Dental and Vision Insurance
+Competitive salaries for all full time employees
+Unlimited paid time off, sick time, and paid company holidays, in addition to paid parental leave, bereavement leave, and jury duty leave for full-time employees
+Health & wellness support through programs such as monthly wellness reimbursement
+Working in a brand new, bright, open-environment and fun office space - there’s even a slide!
+Choice of MacBook or windows laptop
+Genies is an equal opportunity employer committed to promoting an inclusive work environment free of discrimination and harassment. We value diversity, inclusion, and aim to provide a sense of belonging for everyone.#J-18808-Ljbffr","{'posted_at': '16 hours ago', 'schedule_type': 'Full-time', 'paid_time_off': True, 'dental_coverage': True, 'health_insurance': True}",Machine Learning Engineer
+Senior Machine Learning Engineer,Vail Resorts,"Broomfield, CO",Vail Resorts Jobs,"Our mission is to create the Experience of a Lifetime for our employees, so they can, in turn, create the Experience of a Lifetime for our guests. We own and operate the most renowned destination resorts in the world as well as regional and local ski areas outside major cities, and connect them all through one unrivaled network. We are looking for ambitious leaders, innovators and creators to join our talented team. If you’re ready to pursue your fullest potential, we want to get to know you!
+
+Candidates for year-round positions are reviewed on a rolling basis. Applications will be accepted up to 90 days after the posting date, or until the position is filled (whichever is first).
+
+Job Summary:
+
+The Data Science & Engineering team leverages internal data assets to deliver performant, scalable, and impactful data-focused solutions across the business. This team drives innovation by supporting modeling initiatives and collaborating with technology and business partners to unlock strategic opportunities and enhance guest-facing initiatives. Our goals include improving the performance of our existing portfolio of in-market models, enabling data-driven decision-making, and scaling solutions across core business areas.
+
+As a Senior Machine Learning Engineer, you will independently identify, plan, and execute machine learning engineering initiatives to solve complex technical challenges that align with business objectives. You will lead the design, development, and deployment of end-to-end data pipelines, model execution frameworks, and ML solutions. Additionally, you will help establish scalable technologies, enhance operational efficiency, and foster collaboration across technical and business stakeholders.
+
+Job Specifications: 
+• Outlet: Corporate
+• The budgeted range starts at $103,596 - $140,000 + annual bonus. Actual pay will be adjusted based on experience
+• Shift & Schedule Availability: Full Time / Year Round
+• Other Specifics: Hybrid
+
+Job Responsibilities
+• Design, build, and deploy scalable machine learning pipelines and systems that drive data-focused impact across the organization.
+• Develop and optimize shared libraries, infrastructure, and documentation to improve team efficiency and scalability.
+• Lead and collaborate on cross-functional technology and data initiatives, ensuring alignment across stakeholders.
+• Mentor junior engineers and provide technical guidance to team members, promoting best practices in machine learning, data engineering, and software development.
+• Serve as a subject matter expert in machine learning, data engineering, and MLOps, supporting strategic technical and business decisions.
+
+Job Requirements
+• Proven experience with MLOps practices, including developing and automating scalable machine learning pipelines in cloud environments (Azure, AWS, GCP).
+• Expertise in data warehousing systems, data integration, and cloud data solutions such as Snowflake, or Databricks.
+• Proficiency with CI/CD tools (e.g., GitLab CI/CD, GitHub Actions, Azure Dev Ops) and version control systems like Git.
+• Advanced knowledge of Python and SQL, with a track record of building production-ready solutions.
+• Experience working in Linux environments and managing software dependencies across deployment environments.
+• Strong familiarity with scalable data processing frameworks like Apache Spark.
+• Experience with live machine learning systems, ensuring reliable performance and monitoring.
+• Excellent communication skills, with the ability to translate technical concepts for diverse audiences and develop comprehensive documentation.
+
+The expected Total Compensation for this role is $103,596 - $140,000 + annual bonus. Individual compensation decisions are based on a variety of factors.
+
+Job Benefits
+• Ski/Mountain Perks! Free passes for employees, employee discounted lift tickets for friends and family AND free ski lessons
+• MORE employee discounts on lodging, food, gear, and mountain shuttles
+• 401(k) Retirement Plan
+• Employee Assistance Program
+• Excellent training and professional development
+
+Full Time roles are eligible for the above, plus:
+• Health Insurance; Medical Insurance, Dental Insurance, and Vision Insurance plans (for eligible seasonal employees after working 500 hours)
+• Free ski passes for dependents
+• Critical Illness and Accident plans
+
+Vail Resorts offers a ‘Hybrid’ work environment for Broomfield-based roles where employees must live within 50 miles of the Broomfield office and work on-site Tuesday, Wednesday, Thursday and have flexibility to work off-site on Mondays and Fridays.
+
+Please note that the ability to work in person or off-site, and the particulars related to such work, are subject to change at any time; and, accordingly, the Company reserves the right to change its policies and/or require in-person/in-office work or off-site work at any time in its sole discretion.
+
+In completing this application, and when submitting related documentation, applicants may redact information that identifies their age, date of birth, and/or dates of attendance at or graduation from an educational institution.
+
+Vail Resorts is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, protected veteran status or any other status protected by applicable law.
+
+Requisition ID 506885
+
+Reference Date: 01/31/2025
+
+Job Code Function: Marketing","{'posted_at': '11 days ago', 'schedule_type': 'Full-time', 'health_insurance': True, 'dental_coverage': True}",Machine Learning Engineer
+Staff Machine Learning Engineer - Content and  Contributor Intelligence (Remote - United States),Yelp,"Seattle, WA (+4 others)",Yelp Careers,"Summary
+
+Yelp engineering culture is driven by our values: we’re a cooperative team that values individual authenticity and encourages creative solutions to problems. All new engineers deploy working code their first week, and we strive to broaden individual impact with support from managers, mentors, and teams. At the end of the day, we’re all about helping our users, growing as engineers, and having fun in a collaborative environment.
+
+Yelp’s mission of connecting people with great local businesses requires the use of cutting-edge Machine Learning (ML) and Artificial Intelligence (AI) to scale across a vast and diverse base of users and businesses spanning various geographical locations. As a Staff-level ML Engineer on the Content Contributor Intelligence team, you will help build connections across millions of users and business listings. Your work will involve using cutting-edge industry tools, including neural networks (NNs), large language models (LLMs), and various embedding techniques for text, images, and videos. Additionally, you will apply traditional ML methods such as XGBoost and linear models to enhance our systems. You’ll be responsible for turning raw data into valuable signals and building ML systems end-to-end. This includes the full ML lifecycle from training models to deploying them in production, as well as contributing to the ML platforms these models rely on.
+
+This opportunity is fully remote and does not require you to be located in any particular state within the US. We welcome applicants from throughout the US. We’d love to have you apply, even if you don’t feel you meet every single requirement in this posting. At Yelp, we’re looking for great people, not just those who simply check off all the boxes.
+
+What you'll do:
+• Conduct end-to-end analyses, wrangling data via SQL or Python, to statistical modeling, to hypothesizing and presenting business ideas.
+• Mentor and guide junior engineers, fostering a culture of learning and technical excellence.
+• Work with large and complex textual and visual datasets.
+• Support the development and deployment of projects involving machine learned models for offline, batch-based data products as well as models deployed to online, real-time services.
+• Work in the contributor and visual intelligence team on text and visual understanding, along with fine tuning transformer models to derive embeddings for multiple input types
+• Productionize and automate model pipelines within Python services.
+• Drive and advocate adoption of best practices in ML development and operations, and mentor newer engineers in those practices.
+
+What it takes to succeed:
+• Experience developing and productionizing machine learning models, particularly in neural networks and computer vision, including their supported data pipelines.
+• Experience with machine learning using packages such as PyTorch, TensorFlow, Spark MLlib, XGBoost, and Sklearn.
+• Strong coding skills in Python or equivalent (Java, C++).
+• Solid understanding of engineering and infrastructure best practices.
+• The curiosity to uncover promising solutions to new problems, and the persistence to carry your ideas through to an end goal.
+• We highly value experience of working with LLMs, utilizing LLM APIs (OpenAI, Bedrock, etc), prompt engineering and evaluation.
+• A Bachelor’s Degree or an equivalent work experience is required.
+
+What you'll get:
+• Compensation range is $141,000-336,000 annually. Depending on your role and level, you may also be offered a bonus, restricted stock units, and benefits.
+• This opportunity has the option to be fully remote in all locations across the US.
+• You can find more information about Yelp's five star benefits here!
+
+Closing
+At Yelp, we believe that diversity is an expression of all the unique characteristics that make us human: race, age, sexual orientation, gender identity, religion, disability, and education — and those are just a few. We recognize that diverse backgrounds and perspectives strengthen our teams and our product. The foundation of our diversity efforts are closely tied to our core values, which include “Playing Well With Others” and “Authenticity.”
+
+We’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition or disability.
+
+Actual salary offered may vary based on multiple factors, including but not limited to, an individual's location and experience.
+
+We will consider for employment qualified candidates with arrest and conviction records, consistent with applicable law (including, for example, the San Francisco Fair Chance Ordinance for roles based in San Francisco, the Los Angeles County Fair Chance Ordinance for roles based in the unincorporated areas of Los Angeles County, and the California Fair Chance Act for roles based in California).
+
+We are committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-recruiting@yelp.com or 415-969-8488.
+
+Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.
+
+#LI-Remote
+
+Recruiting and Applicant Privacy Notice",{'schedule_type': 'Full-time'},Machine Learning Engineer
